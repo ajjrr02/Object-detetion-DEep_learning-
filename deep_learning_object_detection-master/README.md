@@ -1,30 +1,9 @@
 # deep learning object detection
-A paper list of object detection using deep learning. I wrote this page with reference to [this survey paper](https://arxiv.org/pdf/1809.02165v1.pdf) and searching and searching.. 
+A paper list of object detection using deep learning. I wrote this page with reference searching and searching.. 
 
-*Last updated: 2020/09/22*
+*You can Find this project on my Repo "https://github.com/ajjrr02"
+*Last updated: 2022/12/22*
 
-#### Update log
-*2018/9/18* - update all of recent papers and make some diagram about history of object detection using deep learning. 
-*2018/9/26* - update codes of papers. (official and unofficial)  
-*2018/october* - update 5 papers and performance table.  
-*2018/november* - update 9 papers.  
-*2018/december* - update 8 papers and and performance table and add new diagram(**2019 version!!**).  
-*2019/january* - update 4 papers and and add commonly used datasets.  
-*2019/february* - update 3 papers.  
-*2019/march* - update figure and code links.  
-*2019/april* - remove author's names and update ICLR 2019 & CVPR 2019 papers.  
-*2019/may* - update CVPR 2019 papers.  
-*2019/june* - update CVPR 2019 papers and dataset paper.  
-*2019/july* - update BMVC 2019 papers and some of ICCV 2019 papers.  
-*2019/september* - update NeurIPS 2019 papers and ICCV 2019 papers.  
-*2019/november* - update some of AAAI 2020 papers and other papers.  
-*2020/january* - update ICLR 2020 papers and other papers.  
-*2020/may* - update CVPR 2020 papers and other papers.  
-*2020/june* - update arxiv papers.  
-*2020/august* - update paper links.  
-
-
-##
 
 ## Table of Contents
 - [Paper list from 2014 to now(2019)](https://github.com/hoya012/deep_learning_object_detection/blob/master/README.md#paper-list-from-2014-to-now2019)
@@ -126,7 +105,7 @@ FPS(Speed) index is related to the hardware spec(e.g. CPU, GPU, RAM, etc), so it
 
 ## 2014
 
-- **[R-CNN]** Rich feature hierarchies for accurate object detection and semantic segmentation | **[CVPR' 14]** |[`[pdf]`](https://arxiv.org/pdf/1311.2524.pdf) [`[official code - caffe]`](https://github.com/rbgirshick/rcnn) 
+- **[R-CNN]** Rich feature hierarchies for accurate object detection and semantic segmentation | **[CVPR' 14]** |[`[pdf]`](https://arxiv.org/pdf/1311.2524.pdf) [`[official code - caffe]`](https://github.com/ajjrr02) 
 
 - **[OverFeat]** OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks | **[ICLR' 14]** |[`[pdf]`](https://arxiv.org/pdf/1312.6229.pdf) [`[official code - torch]`](https://github.com/sermanet/OverFeat) 
 
